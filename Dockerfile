@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Hector Cordero <hhcordero@gmail.com>
+MAINTAINER Marko Mlinarić <mmlinaric13@gmail.com>
 
 ENV JMETER_VERSION 5.4.1
 ENV JMETER_HOME /usr/local/apache-jmeter-${JMETER_VERSION}
